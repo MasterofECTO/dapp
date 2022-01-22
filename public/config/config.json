@@ -1,0 +1,29 @@
+{
+  "CONTRACT_ADDRESS": "0x70b93EA20faa5be83C8197c3472Fa5A932c9E2Bf",
+  "SCAN_LINK": "https://bscscan.com/address/0x70b93ea20faa5be83c8197c3472fa5a932c9e2bf",
+  "NETWORK": {
+    "NAME": "Binance Mainnet",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Ecto Traps",
+  "SYMBOL1": "ECTO 1E-CB",
+  "MAX_SUPPLY1": 421,
+  "NFT1_ID": 0,
+  "SYMBOL2": "ECTO 3A-STL",
+  "MAX_SUPPLY2": 111,
+  "NFT2_ID": 1,
+  "SYMBOL3": "ECTO 9L-DMD",
+  "MAX_SUPPLY3": 33,
+  "NFT3_ID": 2,
+  "WEI_COST1": 1000000000000000000,
+  "WEI_COST2": 3000000000000000000,
+  "WEI_COST3": 9000000000000000000,
+  "DISPLAY_COST1": 1,
+  "DISPLAY_COST2": 3,
+  "DISPLAY_COST3": 9,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/",
+  "SHOW_BACKGROUND": true
+}
